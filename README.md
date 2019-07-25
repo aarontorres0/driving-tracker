@@ -1,19 +1,8 @@
-# driving_tracker
+# Driving Tracker
 
-Track driving time.
+Track driving time as a tennager with a driving permit who needs to complete their 50 hour log.
 
-## Getting Started
+# What I Learned 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-# driving-log
-# driving-log-final
-# driving-tracker
+* Build a user interaface using Dart and the Flutter framework.
+* How to implement different types of widgets to an app by reading documentation.
