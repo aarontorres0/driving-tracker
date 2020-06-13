@@ -1,6 +1,6 @@
 # Driving Tracker
 
-Track driving time as a tennager with a driving permit who needs to complete their 50 hour log.
+Track driving time as a teenager with a driving permit who needs to complete their 50 hour log.
 
 # What I Learned 
 
